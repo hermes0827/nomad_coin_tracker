@@ -24,3 +24,6 @@ dist-ssr
 *.sw?
 
 .travis.yml
+
+# Local Netlify folder
+.netlify
